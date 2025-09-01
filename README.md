@@ -8,6 +8,20 @@ Latest revision (C) is what was given out to Cafe grant recepients. Prototype re
 
 Should run the Micro/CircuitPython builds for Pico 2 without a sweat, along with any Pico 2 targetted code.
 
+## LED Matrix Pinout
+
+| Row/Col | GPIO Pin |
+|---------|----------|
+| Row 0   | GPIO12   |
+| Row 1   | GPIO13   |
+| Row 2   | GPIO14   |
+| Row 3   | GPIO15   |
+| Row 4   | GPIO17   |
+| Row 5   | GPIO18   |
+| Col 0   | GPIO19   |
+| Col 1   | GPIO20   |
+| Col 2   | GPIO21   |
+
 ## Licensing
 Daedalus is shared under two license agreements; only one will apply. Please see each for more information.
 - Hack Club Staff & active employees: Daedalus License Agreement. Please contact either me, Acon or current acting Cafe project representative for more information.
